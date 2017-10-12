@@ -1,0 +1,16 @@
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Receive\bin\Debug\netcoreapp1.1\Receive.deps.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Receive\bin\Debug\netcoreapp1.1\Receive.runtimeconfig.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Receive\bin\Debug\netcoreapp1.1\Receive.runtimeconfig.dev.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Receive\bin\Debug\netcoreapp1.1\Receive.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Receive\bin\Debug\netcoreapp1.1\Receive.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Receive\obj\Debug\netcoreapp1.1\Receive.AssemblyInfo.cs
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Receive\obj\Debug\netcoreapp1.1\Receive.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Receive\obj\Debug\netcoreapp1.1\Receive.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Receive\bin\Debug\netcoreapp1.1\Receive.deps.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Receive\bin\Debug\netcoreapp1.1\Receive.runtimeconfig.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Receive\bin\Debug\netcoreapp1.1\Receive.runtimeconfig.dev.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Receive\bin\Debug\netcoreapp1.1\Receive.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Receive\bin\Debug\netcoreapp1.1\Receive.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Receive\obj\Debug\netcoreapp1.1\Receive.AssemblyInfo.cs
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Receive\obj\Debug\netcoreapp1.1\Receive.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Receive\obj\Debug\netcoreapp1.1\Receive.pdb

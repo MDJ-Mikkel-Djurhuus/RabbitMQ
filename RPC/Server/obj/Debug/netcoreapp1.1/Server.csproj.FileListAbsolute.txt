@@ -1,0 +1,8 @@
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\RPC\Server\bin\Debug\netcoreapp1.1\Server.deps.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\RPC\Server\bin\Debug\netcoreapp1.1\Server.runtimeconfig.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\RPC\Server\bin\Debug\netcoreapp1.1\Server.runtimeconfig.dev.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\RPC\Server\bin\Debug\netcoreapp1.1\Server.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\RPC\Server\bin\Debug\netcoreapp1.1\Server.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\RPC\Server\obj\Debug\netcoreapp1.1\Server.AssemblyInfo.cs
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\RPC\Server\obj\Debug\netcoreapp1.1\Server.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\RPC\Server\obj\Debug\netcoreapp1.1\Server.pdb

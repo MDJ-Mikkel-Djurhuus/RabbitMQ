@@ -1,0 +1,8 @@
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\NewTask\bin\Debug\netcoreapp1.1\NewTask.deps.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\NewTask\bin\Debug\netcoreapp1.1\NewTask.runtimeconfig.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\NewTask\bin\Debug\netcoreapp1.1\NewTask.runtimeconfig.dev.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\NewTask\bin\Debug\netcoreapp1.1\NewTask.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\NewTask\bin\Debug\netcoreapp1.1\NewTask.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\NewTask\obj\Debug\netcoreapp1.1\NewTask.AssemblyInfo.cs
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\NewTask\obj\Debug\netcoreapp1.1\NewTask.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\NewTask\obj\Debug\netcoreapp1.1\NewTask.pdb

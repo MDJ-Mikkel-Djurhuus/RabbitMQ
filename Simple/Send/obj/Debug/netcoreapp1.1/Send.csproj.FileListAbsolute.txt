@@ -1,0 +1,16 @@
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.deps.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.runtimeconfig.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.runtimeconfig.dev.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Send\bin\Debug\netcoreapp1.1\Send.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Send\obj\Debug\netcoreapp1.1\Send.AssemblyInfo.cs
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Send\obj\Debug\netcoreapp1.1\Send.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Send\obj\Debug\netcoreapp1.1\Send.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Send\bin\Debug\netcoreapp1.1\Send.deps.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Send\bin\Debug\netcoreapp1.1\Send.runtimeconfig.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Send\bin\Debug\netcoreapp1.1\Send.runtimeconfig.dev.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Send\bin\Debug\netcoreapp1.1\Send.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Send\bin\Debug\netcoreapp1.1\Send.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Send\obj\Debug\netcoreapp1.1\Send.AssemblyInfo.cs
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Send\obj\Debug\netcoreapp1.1\Send.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Simple\Send\obj\Debug\netcoreapp1.1\Send.pdb

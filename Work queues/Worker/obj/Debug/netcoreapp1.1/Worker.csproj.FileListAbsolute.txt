@@ -1,0 +1,8 @@
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\Worker\bin\Debug\netcoreapp1.1\Worker.deps.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\Worker\bin\Debug\netcoreapp1.1\Worker.runtimeconfig.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\Worker\bin\Debug\netcoreapp1.1\Worker.runtimeconfig.dev.json
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\Worker\bin\Debug\netcoreapp1.1\Worker.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\Worker\bin\Debug\netcoreapp1.1\Worker.pdb
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\Worker\obj\Debug\netcoreapp1.1\Worker.AssemblyInfo.cs
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\Worker\obj\Debug\netcoreapp1.1\Worker.dll
+C:\Users\Theko\Desktop\school-2-semester\RabbitMQ\Work queues\Worker\obj\Debug\netcoreapp1.1\Worker.pdb
