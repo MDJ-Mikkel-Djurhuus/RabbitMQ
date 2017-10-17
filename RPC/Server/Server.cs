@@ -8,14 +8,24 @@ using System.Threading;
 
 class RPCServer
 {
-    public static void Main()
+    public static string QUEUE = "rpc_queue_djur";
+    public static string HOST = "datdb.cphbusiness.dk";
+
+    public static void Main(string[] args)
     {
-        var factory = new ConnectionFactory() { HostName = "datdb.cphbusiness.dk" };
+        if(args.Length > 0){
+            HOST = args[0];
+        }
+        if(args.Length > 1){
+            QUEUE = args[1];
+        }
+
+        var factory = new ConnectionFactory() { HostName = HOST };
         using (var connection = factory.CreateConnection())
         using (var channel = connection.CreateModel())
         {
             channel.QueueDeclare(
-                queue: "rpc_queue_djur",
+                queue: QUEUE,
                 durable: false,
                 exclusive: false,
                 autoDelete: false,
@@ -25,7 +35,7 @@ class RPCServer
 
             var consumer = new EventingBasicConsumer(channel);
             channel.BasicConsume(
-                queue: "rpc_queue_djur",
+                queue: QUEUE,
                 autoAck: false,
                 consumer: consumer);
 

@@ -68,10 +68,27 @@ public class Rpc
 {
     public static void Main(string[] args)
     {
-        var rpcClient = new RpcClient();
+        double loanAmount = 250000;
+        if(args.Length > 0){
+            loanAmount = Convert.ToDouble(args[0]);
+        }
+        
+        int loanDuration = 720;
+        if(args.Length > 1){
+            loanDuration = Convert.ToInt32(args[1]);
+        }
+        
+        string ssn = "1602942917";
+        if(args.Length > 2){
+            ssn = args[2];
+        }
 
-        LoanRequest request = new LoanRequest("1602942917", Convert.ToDouble(args[0]), Convert.ToInt32(args[1]), 400);
+        int creditScore = 400;
+
+        LoanRequest request = new LoanRequest(ssn,loanAmount,loanDuration,creditScore);
         Console.WriteLine("Requesting -  amount: {0} duration: {1})", request.LoanAmount, request.LoanDuration);
+        
+        var rpcClient = new RpcClient();
         var response = rpcClient.Call(JsonConvert.SerializeObject(request));
         var deserialized = JsonConvert.DeserializeObject<LoanRespond>(response);
         Console.WriteLine("Interest rate: '{0}'", deserialized.InterestRate);
