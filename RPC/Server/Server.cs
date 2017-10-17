@@ -13,6 +13,7 @@ class RPCServer
 
     public static void Main(string[] args)
     {
+        Console.WriteLine("args: " + args.Length);
         if(args.Length > 0){
             HOST = args[0];
         }
@@ -39,7 +40,7 @@ class RPCServer
                 autoAck: false,
                 consumer: consumer);
 
-            Console.WriteLine(" [x] Awaiting RPC requests");
+            Console.WriteLine(" [x] Awaiting RPC requestss");
 
             consumer.Received += (model, ea) =>
             {
@@ -80,7 +81,7 @@ class RPCServer
                         multiple: false);
                 }
             };
-            
+
             Thread.Sleep(Timeout.Infinite);
         }
     }
