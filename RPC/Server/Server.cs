@@ -4,6 +4,7 @@ using RabbitMQ.Client.Events;
 using System.Text;
 using Bank;
 using Newtonsoft.Json;
+using System.Threading;
 
 class RPCServer
 {
@@ -71,7 +72,7 @@ class RPCServer
             };
 
             Console.WriteLine(" Press [enter] to exit.");
-            Console.ReadLine();
+            Thread.Sleep(Timeout.Infinite);
         }
     }
 }
