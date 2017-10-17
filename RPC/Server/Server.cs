@@ -80,8 +80,7 @@ class RPCServer
                         multiple: false);
                 }
             };
-
-            Console.WriteLine(" Press [enter] to exit.");
+            
             Thread.Sleep(Timeout.Infinite);
         }
     }
